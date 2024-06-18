@@ -1,5 +1,5 @@
 # MetaMorphosMulti
-Local multiplayer version of MetaMorphos VR using Mirror Networking plugin.
+Local multiplayer version of MetaMorphos VR using Mirror Networking plugin (Unity 2021.3.33f1 & Mirror 86.13.4) .
 
 
 # Network Scene and main gameobjects
